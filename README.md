@@ -1,5 +1,6 @@
 # A Complete PHP/MySQL based web application:
 
+#https://github.com/justinhartman/complete-php7-ecom-website
 
 **Check Database Settings file for Username / password -- Admin User: admin / Password: 1234**
 
