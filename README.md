@@ -4,6 +4,7 @@ https://github.com/justinhartman/complete-php7-ecom-website
 
 frameworks
 https://github.com/anubhav199/Responsive-Ecommerce-Website
+https://singh-shivani.github.io/Merlin-Fashion/products.html
 
 **Check Database Settings file for Username / password -- Admin User: admin / Password: 1234**
 
